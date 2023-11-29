@@ -1,5 +1,6 @@
 
-<p align="center">I have a passion for computer science and am fascinated by programming. <br> I have embarked on a new journey at <strong>42 Porto</strong> with the goal of deepening and applying my knowledge. <br>I approach challenges with enthusiasm because <strong>I believe that with effort, dedication, and passion, obstacles can be overcome</strong>.</p>&nbsp;
+<p al![Hi_Pedro_Rodrigues](https://github.com/pevangel42porto/pevangel42porto/assets/142252820/d71cafaa-b915-4fc0-9da3-d3e8160a2b03)
+ign="center">I have a passion for computer science and am fascinated by programming. <br> I have embarked on a new journey at <strong>42 Porto</strong> with the goal of deepening and applying my knowledge. <br>I approach challenges with enthusiasm because <strong>I believe that with effort, dedication, and passion, obstacles can be overcome</strong>.</p>&nbsp;
  
  &nbsp;
  &nbsp;
