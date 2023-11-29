@@ -1,0 +1,3 @@
+- 👋 I'm 29 years old. I love learning and have a diverse background.
+- 👀 I’m interested in **Mobile App Development**, **Data Science**, and **Web Development**.
+- 🌱 I studied sports in high school, and I'm currently completing a degree in marketing(ISCAP). At the moment I'm a student at 42Porto.
