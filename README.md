@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/pevangel42porto/pevangel42porto/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">"I have a passion for computer science and am fascinated by programming. <br><br> I have embarked on a new journey at 42 Porto with the goal of deepening and applying my knowledge.  I approach challenges with enthusiasm because <strong>I believe that with effort, dedication, and passion, obstacles can be overcome<strong> Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I have a passion for computer science and am fascinated by programming. <br><br> I have embarked on a new journey at 42 Porto with the goal of deepening and applying my knowledge.  I approach challenges with enthusiasm because <strong>I believe that with effort, dedication, and passion, obstacles can be overcome<strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pevangel42porto&theme=radical&mode=weekly" />
