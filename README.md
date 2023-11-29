@@ -1,10 +1,5 @@
 
 <p align="center">I have a passion for computer science and am fascinated by programming. <br><br> I have embarked on a new journey at 42 Porto with the goal of deepening and applying my knowledge.  I approach challenges with enthusiasm because <strong>I believe that with effort, dedication, and passion, obstacles can be overcome<strong>.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pevangel42porto&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-pevangel42porto.vercel.app/api/top-langs/?username=pevangel42porto&show_icons=true&theme=radical&layout=compact" />
- </div>
  
  &nbsp;
  &nbsp;
