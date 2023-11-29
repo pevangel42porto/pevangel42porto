@@ -1,9 +1,7 @@
 
 ![Hi ! I’m pedro rodrigues )](https://github.com/pevangel42porto/pevangel42porto/assets/142252820/6701f23b-272c-4993-a092-4d8a3ea5fd5f)
 
-<center>
- 
-I have a passion for computer science and am fascinated by programming. <br> I have embarked on a new journey at <strong>42 Porto</strong> with the goal of deepening and applying my knowledge. <br>I approach challenges with enthusiasm because <strong>I believe that with effort, dedication, and passion, obstacles can be overcome</strong>.</p>&nbsp;
+<p align="center">I have a passion for computer science and am fascinated by programming. <br> I have embarked on a new journey at <strong>42 Porto</strong> with the goal of deepening and applying my knowledge. <br>I approach challenges with enthusiasm because <strong>I believe that with effort, dedication, and passion, obstacles can be overcome</strong>.</p>&nbsp;
 
 </center>
  
