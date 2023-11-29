@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/pevangel42porto/pevangel42porto/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://www.canva.com/design/DAF1j3tdpSo/qiECYpRkJL7FL9Qmq7hD-w/view?utm_content=DAF1j3tdpSo&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I have a passion for computer science and am fascinated by programming. <br><br> I have embarked on a new journey at 42 Porto with the goal of deepening and applying my knowledge.  I approach challenges with enthusiasm because <strong>I believe that with effort, dedication, and passion, obstacles can be overcome<strong>.</p>&nbsp;
