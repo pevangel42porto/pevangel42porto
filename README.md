@@ -5,7 +5,7 @@
 
 <p align="center">
   I have a passion for computer science and am fascinated by programming.<br>
-  Currently studying at <strong>42 Porto</strong> to deepen my knowledge and tackle new challenges.<br>
+  Currently studying at <strong>ATEC</strong> to deepen my knowledge and tackle new challenges.<br>
   <strong>I believe that effort, dedication, and passion can overcome any obstacle.</strong>
 </p>
 
@@ -13,8 +13,8 @@
 
 ## 🚀 About Me  
 - 💻 Aspiring Software Engineer  
-- 🎓 Student at **42 Porto**  
-- 🌱 Currently learning **C**, **Cybersecurity**, **C#** and **Backend Development**  
+- 🎓 Student at **ATEC**  
+- 🌱 Currently learning **C#**, **C++**, **Python**, **Cybersecurity**, **Conatiners**, **Frontend Developement**, **Backend Development**  
 - 🔎 Interested in **Web Development**, **APIs**, **Cloud**, **Linux**, and **DevOps**  
 - 🎯 Always improving, always building  
 
