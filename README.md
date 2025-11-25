@@ -21,8 +21,8 @@
 ---
 
 ## 🔥 GitHub Stats  
-<div  align="center" style="margin-bottom:40px">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=pevangel42porto&theme=radical&mode=weekly"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pevangel42porto&theme=radical&mode=weekly" alt="GitHub Streak"/>
 </div>
 
 ---
